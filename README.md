@@ -141,27 +141,4 @@ PORT=5000
 NODE_ENV=development
 ```
 
----
-
-## Future Improvements
-
-- PostgreSQL integration
-- Redis caching layer
-- Docker deployment
-- Grafana monitoring dashboards
-- Kafka event streaming
-- API Gateway simulation
-- Multi-service architecture
-- Real database persistence
-- Infrastructure failover simulation
-
----
-
-## Disclaimer
-
-FinGuard is an educational infrastructure simulator created for learning, system design exploration, and engineering demonstrations.
-
-It does not process real financial transactions or connect to live banking systems.
-
----
 
