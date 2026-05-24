@@ -1,4 +1,4 @@
-# FinGuard
+# FinGuard 💵
 
 Enterprise-grade fintech infrastructure simulator inspired by modern banking systems and Zero Trust security principles.
 
