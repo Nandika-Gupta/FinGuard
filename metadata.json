@@ -1,0 +1,6 @@
+{
+  "name": "FinGuard Ledger Platform",
+  "description": "Enterprise-grade real-time double-entry settlement ledger and automated compliance monitoring engine. Features secure digital wire routing, automated transaction risk scores, Compliance Hold and Exception Queues, hierarchical administrator privileges, and live high-performance database observability dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
